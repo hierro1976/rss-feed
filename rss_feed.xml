@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
 <channel>
-<title>Your Channel Title</title>
+<title>タイミーのニュース</title>
 <link>https://example.com</link>
-<description>Your channel description</description>
+<description>最新のニュースをお届けします</description>
 <item>
 <title>ＡＩＡＩは大幅反発、保育所等訪問支援サービスの確立に向けタイミーと協力</title>
 <link>https://example.com/stock/news?code=215A&b=n202406250526</link>
